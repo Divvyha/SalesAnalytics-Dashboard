@@ -1,7 +1,7 @@
 # 📊 Sales Analytics Dashboard (Power BI)
 
 ## 🔍 Overview
-This project analyzes sales data to identify trends, top-performing regions, and high-revenue products. A multi-page interactive dashboard was built using Power BI.
+A multi-page interactive Power BI dashboard with drill-through functionality was developed to enable both high-level monitoring and detailed analysis of sales performance.
 
 ## 🛠️ Tools Used
 - Power BI
